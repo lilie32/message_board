@@ -28,7 +28,7 @@
                     </tbody>
                 </table>
 
-                <p><a href="${pageContext.request.contextPath}/index">一覧に戻る</a></p>
+
 
 
                 <p>タイトル：<c:out value="${message.title}" /></p>
